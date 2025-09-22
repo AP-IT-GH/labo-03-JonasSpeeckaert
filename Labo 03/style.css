@@ -1,0 +1,19 @@
+
+
+header {
+    width: 400px;
+    height: 300px;
+    background-color: rgb(29, 61, 22);
+    border-width: 5px;
+    border-style: dashed;
+    
+}
+
+nav {
+    width: 300px;
+    background-color: rgb(64, 153, 153);
+}
+
+a {
+    color: orange;
+}
